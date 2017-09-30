@@ -467,8 +467,12 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    UNet: 1
-  cloudProjectId: 0ffaaa0c-1fe7-492b-8a1d-2ac061ae7602
-  projectName: SomethingPhishy
-  organizationId: alexfromsocal
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
